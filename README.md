@@ -5,7 +5,7 @@ SIMULADO - Enterprise Application Development aplicada em 23/08/2023.
 
 | ![](documentacao/fiap.jpg)               | **Enterprise Application Development** |
 |------------------------------------------|----------------------------------------|
-| **ALUNO:**                               | **TURMA:** 2TDSPT  - 2TDSPR            |
+| **ALUNO:Victor Shimada Serete**          | **TURMA:** 2TDSPT  - 2TDSPR            |
 | **PROFESSOR:** Benefrancis do Nascimento | 23/08/2023                             |
 | **SIMULADO**                      | ****                                   |
 
